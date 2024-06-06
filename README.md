@@ -8,8 +8,8 @@ Meu github tem o objetivo de fazer muitos projetos pessoais em que eu possa faci
 
 # Projects
 
-- [How to create and use an custom lambda layer (Terraform, Lambda, Lambda Custom Layer, iam, python)]([url](https://github.com/kisukegremory/terraform-custom-lambda-layer))
-- [How to read an csv and automatically write .parquet on s3 into a lambda container (Terraform, Docker, Lambda, S3, iam, python, polars)]([url](https://github.com/kisukegremory/s3-lambda-python-docker-terraform))
-- [https://github.com/kisukegremory/terraform-s3-safe-backend](How to create and use a s3 bucket as a terraform backend (Terraform, S3, iam))
-- [Simple lambda usage on terraform: reading an standard s3 file (Terraform, lambda, python, iam, s3)]([url](https://github.com/kisukegremory/terraform-lambda))
+- [How to create and use an custom lambda layer (Terraform, Lambda, Lambda Custom Layer, iam, python)](https://github.com/kisukegremory/terraform-custom-lambda-layer)
+- [How to read an csv and automatically write .parquet on s3 into a lambda container (Terraform, Docker, Lambda, S3, iam, python, polars)](https://github.com/kisukegremory/s3-lambda-python-docker-terraform)
+- [How to create and use a s3 bucket as a terraform backend (Terraform, S3, iam)](https://github.com/kisukegremory/terraform-s3-safe-backend)
+- [Simple lambda usage on terraform: reading an standard s3 file (Terraform, lambda, python, iam, s3)](https://github.com/kisukegremory/terraform-lambda)
 
